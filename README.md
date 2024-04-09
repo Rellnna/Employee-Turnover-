@@ -44,7 +44,6 @@ Promote a supportive workforce atmosphere and organizational culture, prioritizi
 
 Conclusion
 An advanced, data-driven employee turnover prediction system for Tech Innovation Inc. was developed. This technology helps to enhance recruitment and retention strategies.
-
 Adopting the recommendations will create a sustainable solution for reducing turnover rates, thus enhancing employee retention and overall organizational success. Engaging in regular and more detailed employee feedback sessions, addressing work-life balance concerns, and recognizing and rewarding employee contributions could be effective strategies for improvement.
 
 
