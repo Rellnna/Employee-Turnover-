@@ -41,6 +41,7 @@ Promote a supportive workforce atmosphere and organizational culture, prioritizi
 ● Conduct regular employee surveys to gather feedback and address any concerns or areas for improvement.
 
 ● Promptly address any issues identified through turnover analysis, including dissatisfaction with salary, limited advancement opportunities, or challenges with work-life balance.
+
 Conclusion
 An advanced, data-driven employee turnover prediction system for Tech Innovation Inc. was developed. This technology helps to enhance recruitment and retention strategies.
 
